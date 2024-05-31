@@ -260,6 +260,22 @@ body {
     font-size: 44px;
     font-style: italic;
 }
+.gif-container p.unico{
+    margin: 30px 0;
+    font-weight: bolder;
+    color: cadetblue;
+    text-shadow: 1px 1px 5px purple;
+    font-size: 44px;
+    font-style: italic;
+}
+.gif-container p.unico2{
+    margin: 30px 0;
+    font-weight: bolder;
+    color: blueviolet;
+    text-shadow: 1px 1px 5px purple;
+    font-size: 44px;
+    font-style: italic;
+}
 
 .gif-container img {
     justify-content: center;
